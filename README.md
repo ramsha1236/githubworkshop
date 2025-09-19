@@ -1,3 +1,3 @@
 # githubworkshop
 This is my first git repository.
--Ramsha
+-Ramsha (BITS Pilani)
